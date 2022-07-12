@@ -1,0 +1,44 @@
+h1
+{
+font-family: cursive;
+font-style: italic;
+font-weight: bold;
+}
+
+body
+{
+    background: #cfcece;
+}
+
+h4
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border: 1px solid violet;
+}
+
+img
+{
+width: 37%;
+border-radius: 4px;
+padding: 10px;
+box-shadow: 0 6px 8px 0 black;
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
+
+.column
+{
+    padding: 10px;
+    display: inline;
+}
